@@ -4,7 +4,7 @@
 ## Notes: Provides information about your alts
 ## Notes-zhTW: 讓你即時撿閱你所有角色的資料
 ## Notes-zhCN: 能让你全面掌握你的所有角色的信息。
-## Author: Dyaxler
+## Author: aektzis
 ## Version: 1.0.9
 ## OptionalDeps: Ace2, LibBabble-Zone-3.0, LibBabble-Boss-3.0, LibBabble-Inventory-3.0, LibBabble-Faction-3.0, LibBabble-Class-3.0, DewdropLib, FuBarPlugin-2.0
 ## SavedVariables: AltoholicDB, AltoholicFuDB

@@ -1,4 +1,4 @@
-﻿## Interface: 11702
+﻿## Interface: 20400
 ## Title: Altoholic for Vanilla WoW
 ## Title-zhCN: |cffeedd99 [物品] |r: 全角色统计 Altoholic
 ## Notes: Provides information about your alts

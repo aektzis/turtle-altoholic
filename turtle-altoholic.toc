@@ -1,4 +1,4 @@
-﻿## Interface: 11207
+﻿## Interface: 11200
 ## Title: Altoholic for Turtle-WoW
 ## Notes: Provides information about your alts
 ## Author: aektzis
